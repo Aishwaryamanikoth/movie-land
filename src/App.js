@@ -21,7 +21,7 @@ const[searchVal,setSearchVal]= useState('');
          <div className="app">
             <h1>WatchMovies🎬</h1>
             <div className="search">
-                <input placeholder="search for movies" value={searchVal}
+                <input placeholder="Search for movies" value={searchVal}
                  onChange={(e)=> {setSearchVal(e.target.value)}}
                 />
                 <img 
