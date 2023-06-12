@@ -52,3 +52,4 @@ const[searchVal,setSearchVal]= useState('');
 }
 
 export default App;
+

@@ -30,7 +30,7 @@ body {
 h1 {
   font-size: 7rem;
   letter-spacing: 0.9px;
-  background: linear-gradient(to top right, #ff9933, #ffcc66);
+  background: linear-gradient(to top right, hsl(195, 55%, 32%), #3790a2);
 
   background-clip: text;
   -webkit-background-clip: text;
